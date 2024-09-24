@@ -1,4 +1,4 @@
-# Effacement de données sur supports de stockage magnétique
+# Effacement de données sur support de stockage magnétique
 
 Par Adrien Ferron / lacapsule.org / Fédération régionale des reconditionneurs bretons OGO 2024
 
